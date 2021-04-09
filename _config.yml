@@ -109,11 +109,11 @@ author:
   avatar           : "/assets/images/logo.png " # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "어제보다 오늘 더 성장하기"
   location         : "South Korea"
-  email            : "iamhyunji_kim@icloud.com"
+  email            : #"iamhyunji_kim@icloud.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:iamhyunji_kim@naver.com"
+      url: "mailto:iamhyunji_kim@naver.com"
     - label: "Blog"
       icon: "fas fa-fw fa-link"
       url: "https://iamhyunji.github.io/"
