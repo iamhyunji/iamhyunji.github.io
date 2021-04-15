@@ -18,14 +18,14 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 # Site Settings
 locale                   : "ko-KR"
 title                    : "매일매일 개발 블로그"
-title_separator          : "🤍"
+title_separator          : "|"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Hyun"
 description              : "개발 공부 및 생활 관련 블로그"
 url                      : "https://iamhyunji.github.io/" # the base hostname & protocol for your site
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "iamhyunji/iamhyunji.github.io" # GitHub username/repo-name
-teaser                   : "/assets/images/teaser.png" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+teaser                   : # "/assets/images/teaser.png" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # "/assets/images/logo.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : "매일매일 기록" # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : true # true, false (default)

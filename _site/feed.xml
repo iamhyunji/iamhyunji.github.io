@@ -1,1 +1,23 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="https://iamhyunji.github.io//feed.xml" rel="self" type="application/atom+xml" /><link href="https://iamhyunji.github.io//" rel="alternate" type="text/html" /><updated>2021-04-15T15:14:56+09:00</updated><id>https://iamhyunji.github.io//feed.xml</id><title type="html">매일매일 개발 블로그</title><subtitle>개발 공부 및 생활 관련 블로그</subtitle><author><name>Hyun</name></author></feed>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="https://iamhyunji.github.io//feed.xml" rel="self" type="application/atom+xml" /><link href="https://iamhyunji.github.io//" rel="alternate" type="text/html" /><updated>2021-04-15T16:36:49+09:00</updated><id>https://iamhyunji.github.io//feed.xml</id><title type="html">매일매일 개발 블로그</title><subtitle>개발 공부 및 생활 관련 블로그</subtitle><author><name>Hyun</name></author><entry><title type="html">[정보처리기사] 1일차</title><link href="https://iamhyunji.github.io//%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EA%B8%B0%EC%82%AC/certificate-day01/" rel="alternate" type="text/html" title="[정보처리기사] 1일차" /><published>2020-05-25T00:00:00+09:00</published><updated>2020-05-25T00:00:00+09:00</updated><id>https://iamhyunji.github.io//%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EA%B8%B0%EC%82%AC/certificate-day01</id><content type="html" xml:base="https://iamhyunji.github.io//%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EA%B8%B0%EC%82%AC/certificate-day01/">&lt;h2 id=&quot;i-요구사항-확인&quot;&gt;I. 요구사항 확인&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;/assets/images/pdfs/2021-04-15-certificate-day01.pdf&quot; class=&quot;btn&quot; target=&quot;_blank&quot;&gt;&lt;i class=&quot;far fa-file-pdf&quot;&gt;&lt;/i&gt;&lt;span&gt; 정보처리기사 - I단원 오답.pdf&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;01-현행-시스템-분석&quot;&gt;01. 현행 시스템 분석&lt;/h3&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;현행 시스템 파악&lt;/li&gt;
+  &lt;li&gt;개발 기술 환경 정의&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;02-요구사항-확인&quot;&gt;02. 요구사항 확인&lt;/h3&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;요구사항&lt;/li&gt;
+  &lt;li&gt;요구사항의 시스템화 타당성 분석&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;03-분석-모델-확인하기&quot;&gt;03. 분석 모델 확인하기&lt;/h3&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;분석 모델 검증&lt;/li&gt;
+  &lt;li&gt;분석 모델의 시스템화 타당성 분석&lt;/li&gt;
+&lt;/ol&gt;</content><author><name>Hyun</name></author><category term="정보처리기사" /><summary type="html">정보처리기사 I단원 관련 개념 정리</summary></entry></feed>
