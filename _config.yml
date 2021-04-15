@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 # Site Settings
 locale                   : "ko-KR"
 title                    : "매일매일 개발 블로그"
-title_separator          : "-"
+title_separator          : "🤍"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Hyun"
 description              : "개발 공부 및 생활 관련 블로그"
@@ -128,6 +128,7 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
+
 
 # Site Footer
 footer:
@@ -293,6 +294,8 @@ defaults:
       comments: # true
       share: true
       related: true
+      show_date: true
+      date_format: "%Y-%m-%d"
 
   # _pages
   - scope:
