@@ -2,7 +2,11 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>https://iamhyunji.github.io//%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EA%B8%B0%EC%82%AC/certificate-day01/</loc>
-<lastmod>2020-05-25T00:00:00+09:00</lastmod>
+<lastmod>2021-04-15T00:00:00+09:00</lastmod>
+</url>
+<url>
+<loc>https://iamhyunji.github.io//%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EA%B8%B0%EC%82%AC/certificate-day02/</loc>
+<lastmod>2021-04-16T00:00:00+09:00</lastmod>
 </url>
 <url>
 <loc>https://iamhyunji.github.io//categories/</loc>
@@ -15,6 +19,10 @@
 </url>
 <url>
 <loc>https://iamhyunji.github.io//assets/images/pdfs/2021-04-15-certificate-day01.pdf</loc>
-<lastmod>2021-04-15T16:26:30+09:00</lastmod>
+<lastmod>2021-04-16T08:43:50+09:00</lastmod>
+</url>
+<url>
+<loc>https://iamhyunji.github.io//assets/images/pdfs/2021-04-16-certificate-day02.pdf</loc>
+<lastmod>2021-04-16T08:43:52+09:00</lastmod>
 </url>
 </urlset>

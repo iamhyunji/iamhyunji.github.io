@@ -1,6 +1,6 @@
 ---
 title: "[정보처리기사] 1일차"
-excerpt: "정보처리기사 I단원 관련 개념 정리"
+excerpt: "정보처리기사 I단원 관련 정리"
 
 categories:
   - 정보처리기사
@@ -9,7 +9,7 @@ toc: true
 toc_label: 정보처리기사
 toc_sticky: true
 
-date: 2020-05-25
+date: 2021-04-15
 ---
 
 ## I. 요구사항 확인
