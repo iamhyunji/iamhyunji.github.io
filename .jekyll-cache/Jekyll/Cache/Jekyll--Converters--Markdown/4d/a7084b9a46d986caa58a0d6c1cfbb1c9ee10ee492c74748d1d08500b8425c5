@@ -1,0 +1,19 @@
+I"�<h2 id="ii-데이터-입출력-구현">II. 데이터 입출력 구현</h2>
+<p><a href="/assets/images/pdfs/2021-04-16-certificate-day02.pdf" class="btn" target="_blank"><i class="far fa-file-pdf"></i><span> 정보처리기사 - II단원 오답.pdf</span></a></p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>### 목차
+1. 논리 데이터 저장소 확인
+  * 논리 데이터 모델 검증
+2. 물리 데이터 저장소 설계
+  * 물리 데이터 모델 설계
+  * 물리 데이터 저장소 구성
+3. 데이터 조작 프로시저 작성
+  * 데이터 조작 프로시저 개발
+  * 데이터 조작 프로시저 테스트
+4. 데이터 조작 프로시저 최적화
+  * 데이터 조작 프로시저 성능개선
+</code></pre></div></div>
+
+<h3 id="설명">설명</h3>
+<p>수제비 정보처리기사 책을 공부하면서 푼 문제들의 오답 정리입니다.</p>
+:ET
