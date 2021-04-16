@@ -10,4 +10,10 @@ var store = [{
         "tags": [],
         "url": "/%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EA%B8%B0%EC%82%AC/certificate-day02/",
         "teaser": null
+      },{
+        "title": "[정보처리기사] 3일차 (작성 중)",
+        "excerpt":"II. 통합 구현 정보처리기사 - III단원 오답.pdf 단원 목차 연계 데이터 구성 연계 요구사항 분석 연계 데이터 식별 및 표준화 연계 메커니즘 구성 연계 메커니즘 정의 연계 장애 및 오류처리 구현 내외부 연계 모듈 구현 연계 모듈 구현 환경 구성 및 개발 연계 테스트 및 검증 설명 수제비 정보처리기사 실기책을...","categories": ["정보처리기사"],
+        "tags": [],
+        "url": "/%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EA%B8%B0%EC%82%AC/certificate-day03/",
+        "teaser": null
       }]

@@ -1,0 +1,31 @@
+I"<h2 id="ii-통합-구현">II. 통합 구현</h2>
+<p><a href="/assets/images/pdfs/2021-04-16-certificate-day03.pdf" class="btn" target="_blank"><i class="far fa-file-pdf"></i><span> 정보처리기사 - III단원 오답.pdf</span></a></p>
+
+<h3 id="단원-목차">단원 목차</h3>
+<ol>
+  <li>연계 데이터 구성
+    <ul>
+      <li>논리 데이터 모델 검증</li>
+    </ul>
+  </li>
+  <li>연계 메커니즘 구성
+    <ul>
+      <li>물리 데이터 모델 설계</li>
+      <li>물리 데이터 저장소 구성</li>
+    </ul>
+  </li>
+  <li>내외부 연계 모듈 구현
+    <ul>
+      <li>연계 모듈 구현 환경 구성 및 개발</li>
+      <li>연계 테스트 및 검증</li>
+    </ul>
+  </li>
+</ol>
+
+<h3 id="설명">설명</h3>
+<ul>
+  <li>수제비 정보처리기사 실기책을 공부하면서 한 <strong>오답 정리</strong>입니다.</li>
+  <li>이동 시 보기 편하도록 pdf 파일로 올렸습니다. 이는 위에 첨부된 <span style="cursor:pointer;" onclick="window.scrollTo(0,0);"><b><u>정보처리기사 - II단원 오답.pdf</u></b></span> 파일을 클릭하시면 확인할 수 있습니다.</li>
+  <li><strong>대단원-중단원-소단원</strong>으로 구분 되어 있고, <strong>문제-상위 키워드-답</strong>으로 구성되어 있습니다.</li>
+</ul>
+:ET
