@@ -1,5 +1,5 @@
 ---
-title: "[정보처리기사] 3일차 (작성 중)"
+title: "[정보처리기사] 3일차"
 excerpt: "정보처리기사 III단원 관련 정리"
 
 categories:
