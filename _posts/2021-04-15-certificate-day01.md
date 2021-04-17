@@ -9,6 +9,8 @@ categories:
 # toc_label: 정보처리기사
 # toc_sticky: true
 
+comments: true
+
 date: 2021-04-15
 ---
 

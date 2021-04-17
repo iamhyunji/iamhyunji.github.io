@@ -10,6 +10,8 @@ categories:
 # toc_label: 소프트웨어 공학
 # toc_sticky: true
 
+comments: true
+
 date: 2021-04-16
 ---
 
