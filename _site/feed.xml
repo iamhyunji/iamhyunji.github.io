@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="https://iamhyunji.github.io//feed.xml" rel="self" type="application/atom+xml" /><link href="https://iamhyunji.github.io//" rel="alternate" type="text/html" /><updated>2021-04-17T18:51:44+09:00</updated><id>https://iamhyunji.github.io//feed.xml</id><title type="html">매일매일 개발 블로그</title><subtitle>개발 공부 및 생활 관련 블로그</subtitle><author><name>Hyun</name></author><entry><title type="html">[정보처리기사] 2일차</title><link href="https://iamhyunji.github.io//%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EA%B8%B0%EC%82%AC/certificate-day02/" rel="alternate" type="text/html" title="[정보처리기사] 2일차" /><published>2021-04-16T00:00:00+09:00</published><updated>2021-04-16T00:00:00+09:00</updated><id>https://iamhyunji.github.io//%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EA%B8%B0%EC%82%AC/certificate-day02</id><content type="html" xml:base="https://iamhyunji.github.io//%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EA%B8%B0%EC%82%AC/certificate-day02/">&lt;h2 id=&quot;ii-데이터-입출력-구현&quot;&gt;II. 데이터 입출력 구현&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="https://iamhyunji.github.io//feed.xml" rel="self" type="application/atom+xml" /><link href="https://iamhyunji.github.io//" rel="alternate" type="text/html" /><updated>2021-04-18T11:00:04+09:00</updated><id>https://iamhyunji.github.io//feed.xml</id><title type="html">매일매일 개발 블로그</title><subtitle>개발 공부 및 생활 관련 블로그</subtitle><author><name>Hyun</name></author><entry><title type="html">[정보처리기사] 2일차</title><link href="https://iamhyunji.github.io//%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EA%B8%B0%EC%82%AC/certificate-day02/" rel="alternate" type="text/html" title="[정보처리기사] 2일차" /><published>2021-04-16T00:00:00+09:00</published><updated>2021-04-16T00:00:00+09:00</updated><id>https://iamhyunji.github.io//%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EA%B8%B0%EC%82%AC/certificate-day02</id><content type="html" xml:base="https://iamhyunji.github.io//%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EA%B8%B0%EC%82%AC/certificate-day02/">&lt;h2 id=&quot;ii-데이터-입출력-구현&quot;&gt;II. 데이터 입출력 구현&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&quot;/assets/images/pdfs/2021-04-16-certificate-day02.pdf&quot; class=&quot;btn&quot; target=&quot;_blank&quot;&gt;&lt;i class=&quot;far fa-file-pdf&quot;&gt;&lt;/i&gt;&lt;span&gt; 정보처리기사 - II단원 오답.pdf&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;단원-목차&quot;&gt;단원 목차&lt;/h3&gt;
@@ -62,21 +62,37 @@
   &lt;li&gt;수제비 정보처리기사 실기책을 공부하면서 한 &lt;strong&gt;오답 정리&lt;/strong&gt;입니다.&lt;/li&gt;
   &lt;li&gt;이동 시 보기 편하도록 pdf 파일로 올렸습니다. 이는 위에 첨부된 &lt;span style=&quot;cursor:pointer;&quot; onclick=&quot;window.scrollTo(0,0);&quot;&gt;&lt;b&gt;&lt;u&gt;정보처리기사 - II단원 오답.pdf&lt;/u&gt;&lt;/b&gt;&lt;/span&gt; 파일을 클릭하시면 확인할 수 있습니다.&lt;/li&gt;
   &lt;li&gt;&lt;strong&gt;대단원-중단원-소단원&lt;/strong&gt;으로 구분 되어 있고, &lt;strong&gt;문제-상위 키워드-답&lt;/strong&gt;으로 구성되어 있습니다.&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>Hyun</name></author><category term="정보처리기사" /><summary type="html">정보처리기사 III단원 관련 정리</summary></entry><entry><title type="html">[소프트웨어 공학] CH01. 소프트웨어 공학과 소프트웨어</title><link href="https://iamhyunji.github.io//cs%EA%B8%B0%EC%B4%88/%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4%20%EA%B3%B5%ED%95%99/software-engineering-01/" rel="alternate" type="text/html" title="[소프트웨어 공학] CH01. 소프트웨어 공학과 소프트웨어" /><published>2021-04-16T00:00:00+09:00</published><updated>2021-04-16T00:00:00+09:00</updated><id>https://iamhyunji.github.io//cs%EA%B8%B0%EC%B4%88/%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4%20%EA%B3%B5%ED%95%99/software-engineering-01</id><content type="html" xml:base="https://iamhyunji.github.io//cs%EA%B8%B0%EC%B4%88/%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4%20%EA%B3%B5%ED%95%99/software-engineering-01/">&lt;h2 id=&quot;0-들어가기-전&quot;&gt;0. 들어가기 전&lt;/h2&gt;
-&lt;p&gt;저처럼 비전공자이지만 개발자가 되기 위해 노력하는 분들, 또는 전공자이나 기초적인 컴퓨터 과학 지식(일명 CS 기초)을 더 채우고자 하는 분들을 위해 부족하게나마 도움이 되고자 글을 씁니다.&lt;/p&gt;
+&lt;/ul&gt;</content><author><name>Hyun</name></author><category term="정보처리기사" /><summary type="html">정보처리기사 III단원 관련 정리</summary></entry><entry><title type="html">[소프트웨어 공학] CH01. 소프트웨어 공학과 소프트웨어</title><link href="https://iamhyunji.github.io//cs%EA%B8%B0%EC%B4%88/%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4%20%EA%B3%B5%ED%95%99/software-engineering-01/" rel="alternate" type="text/html" title="[소프트웨어 공학] CH01. 소프트웨어 공학과 소프트웨어" /><published>2021-04-16T00:00:00+09:00</published><updated>2021-04-16T00:00:00+09:00</updated><id>https://iamhyunji.github.io//cs%EA%B8%B0%EC%B4%88/%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4%20%EA%B3%B5%ED%95%99/software-engineering-01</id><content type="html" xml:base="https://iamhyunji.github.io//cs%EA%B8%B0%EC%B4%88/%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4%20%EA%B3%B5%ED%95%99/software-engineering-01/">&lt;h2 id=&quot;00-들어가기-전&quot;&gt;00. 들어가기 전&lt;/h2&gt;
+&lt;p&gt;저처럼 비전공자이지만 학문적 기초를 닦고자 하시는 분들, 또는 전공자이나 기초적인 컴퓨터 과학 지식(일명 CS 기초)을 더 채우고자 하는 분들을 위해 부족하게나마 도움이 되고자 글을 씁니다.&lt;/p&gt;
 
-&lt;p&gt;앞으로 CS 기초와 관련된 글들을 게시할 예정이고, 이번 포스팅은 &lt;strong&gt;소프트웨어 공학&lt;/strong&gt;에 대한 정리입니다. 본 글은 책을 읽고 요약·정리한 내용으로 채울 것이고, 추후 강의나 보충 자료를 통해 내용을 수정할 수 있습니다.&lt;/p&gt;
+&lt;p&gt;앞으로 CS 기초와 관련된 글들을 게시할 예정이고, 이번 포스팅은 &lt;strong&gt;소프트웨어 공학&lt;/strong&gt;에 대한 정리입니다. 글들은 책을 읽고 요약·정리한 내용으로 채울 예정이고, 추후 강의나 보충 자료를 통해 내용을 수정할 수 있습니다.&lt;/p&gt;
 
-&lt;p&gt;블로그에 들려주셔서 감사하고, 이 글이 조금이나마 여러분께 도움이 되길 바랍니다.
+&lt;p&gt;블로그에 들려주셔서 감사하고, 이 포스팅이 여러분들께 조금이나마 도움이 되길 바랍니다.
 감사합니다.&lt;/p&gt;
 
 &lt;h2 id=&quot;01-소프트웨어-공학이란&quot;&gt;01. 소프트웨어 공학이란?&lt;/h2&gt;
-&lt;p&gt;소프트웨어 공학은 소프트웨어를 어떻게 만들 것인지, 만드는 동안 소요되는 시간과 또 만들어진 결과물의 모습은 어떻게 되는지에 대해 정리한 것이라고 합니다.
-간단히 서술하자면 소프트웨어를 어떻게 잘 만들 수 있는지 가르쳐주는 것이 소프트웨어 공학이라고 합니다.&lt;/p&gt;
+&lt;p&gt;개발 또는 정보 관련 자격증을 준비하면서 소프트웨어와 소프트웨어 공학이라는 말을 듣게 된다. 소프트웨어가 무엇인지는 막연히 알겠는데, 소프트웨어 공학은 무엇일까? &lt;br /&gt;
+소프트웨어 공학은 소프트웨어를 어떻게 만들 것인지, 만드는 동안 소요되는 시간과 또 만들어진 결과물의 모습은 어떻게 되는지에 대해 정리한 것이라고 한다. &lt;br /&gt;
+간단히 정리하자면 &lt;u&gt;소프트웨어를 어떻게 잘 만들 수 있는지 가르쳐주는 것&lt;/u&gt;이 &lt;strong&gt;소프트웨어 공학&lt;/strong&gt;이라고 한다.&lt;/p&gt;
 
 &lt;h2 id=&quot;02-소프트웨어-공학-탄생-배경&quot;&gt;02. 소프트웨어 공학 탄생 배경&lt;/h2&gt;
-&lt;p&gt;소프트웨어 공학은 &lt;a href=&quot;https://ko.wikipedia.org/wiki/%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4_%EC%9C%84%EA%B8%B0&quot; target=&quot;_blank&quot;&gt;소프트웨어 위기(Software Crisis)&lt;/a&gt;라는 시기에 발생한 많은 소프트웨어 개발 프로젝트 실패로 탄생했습니다.&lt;br /&gt;
-1960년대, 프로그램 개발에 대한 수요가 폭발적으로 증가했지만, 이를 지원해줄 수 있는 공급이 턱없이 부족했고, 이 상태가 지속되면서 부실한 품질로 제대로 작동하지 못하는 결과물들이 나오게 됩니다.&lt;/p&gt;
+&lt;p&gt;소프트웨어 공학이라는 개념은 &lt;a href=&quot;https://ko.wikipedia.org/wiki/%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4_%EC%9C%84%EA%B8%B0&quot; target=&quot;_blank&quot; class=&quot;link-no-underline&quot;&gt;소프트웨어 위기(Software Crisis)&lt;/a&gt; 속에서 탄생했다. 1960년대 프로그램 개발에 대한 수요가 폭발적으로 증가하면서 많은 개발 프로젝트가 진행됐지만, 당시 이를 지원해줄 공급은 턱없이 부족했고 이에 당연히 결과물은 좋지 못했다. &lt;br /&gt;
+많은 소프트웨어 개발 프로젝트가 실패하면서 이를 극복하기 위해, 처음부터 모든 것을 만들어내는 것이 아닌 공학점 패러다임을 적용해 개발을 진행하자는 의견이 제기되었고, 1968년 10월 독일의 가미쉬(Garmisch) 도시에서 개최된 NATO의 한 커퍼런스에서 &lt;strong&gt;“소프트웨어 공학(Software Engineering)”&lt;/strong&gt;이라는 용어가 처음 제안되었다. &lt;br /&gt;
+컨퍼런스가 진행될 때 의장이었던 &lt;a href=&quot;https://en.wikipedia.org/wiki/Friedrich_L._Bauer&quot; target=&quot;_blank&quot; class=&quot;link-no-underline&quot;&gt;프리드리히 바우어(Bauer)&lt;/a&gt;는 소프트웨어 공학을 다음과 같이 정의했다.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;기계에서 효율적으로 작동되는 신뢰성 있는 소프트웨어를 경계적으로 획득하기 위해 적절한 공학적 원리를 수립하여 활용하는 것이다&lt;br /&gt;
+“Establishment and use of sound engineering principles to economically obtain software that is reliable and works on real machines efficiently.”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;03-소프트웨어-정의와-구성요소&quot;&gt;03. 소프트웨어 정의와 구성요소&lt;/h2&gt;
+&lt;h2 id=&quot;04-소프트웨어-공학-특징-4가지&quot;&gt;04. 소프트웨어 공학 특징 4가지&lt;/h2&gt;
+&lt;h2 id=&quot;05-라이프-사이클life-cycle&quot;&gt;05. 라이프 사이클(Life Cycle)&lt;/h2&gt;
+&lt;h2 id=&quot;06-소프트웨어-도입-프로젝트-방식&quot;&gt;06. 소프트웨어 도입 프로젝트 방식&lt;/h2&gt;
+
+&lt;h2 id=&quot;정리&quot;&gt;정리&lt;/h2&gt;
+
+&lt;h2 id=&quot;추가-보완-사항&quot;&gt;추가 보완 사항&lt;/h2&gt;
 
 &lt;h2 id=&quot;참고문헌&quot;&gt;참고문헌&lt;/h2&gt;
 &lt;ul&gt;
