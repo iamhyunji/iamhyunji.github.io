@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="https://iamhyunji.github.io//feed.xml" rel="self" type="application/atom+xml" /><link href="https://iamhyunji.github.io//" rel="alternate" type="text/html" /><updated>2021-04-18T11:00:04+09:00</updated><id>https://iamhyunji.github.io//feed.xml</id><title type="html">매일매일 개발 블로그</title><subtitle>개발 공부 및 생활 관련 블로그</subtitle><author><name>Hyun</name></author><entry><title type="html">[정보처리기사] 2일차</title><link href="https://iamhyunji.github.io//%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EA%B8%B0%EC%82%AC/certificate-day02/" rel="alternate" type="text/html" title="[정보처리기사] 2일차" /><published>2021-04-16T00:00:00+09:00</published><updated>2021-04-16T00:00:00+09:00</updated><id>https://iamhyunji.github.io//%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EA%B8%B0%EC%82%AC/certificate-day02</id><content type="html" xml:base="https://iamhyunji.github.io//%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EA%B8%B0%EC%82%AC/certificate-day02/">&lt;h2 id=&quot;ii-데이터-입출력-구현&quot;&gt;II. 데이터 입출력 구현&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="https://iamhyunji.github.io//feed.xml" rel="self" type="application/atom+xml" /><link href="https://iamhyunji.github.io//" rel="alternate" type="text/html" /><updated>2021-04-18T11:22:31+09:00</updated><id>https://iamhyunji.github.io//feed.xml</id><title type="html">매일매일 개발 블로그</title><subtitle>개발 공부 및 생활 관련 블로그</subtitle><author><name>Hyun</name></author><entry><title type="html">[정보처리기사] 2일차</title><link href="https://iamhyunji.github.io//%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EA%B8%B0%EC%82%AC/certificate-day02/" rel="alternate" type="text/html" title="[정보처리기사] 2일차" /><published>2021-04-16T00:00:00+09:00</published><updated>2021-04-16T00:00:00+09:00</updated><id>https://iamhyunji.github.io//%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EA%B8%B0%EC%82%AC/certificate-day02</id><content type="html" xml:base="https://iamhyunji.github.io//%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EA%B8%B0%EC%82%AC/certificate-day02/">&lt;h2 id=&quot;ii-데이터-입출력-구현&quot;&gt;II. 데이터 입출력 구현&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&quot;/assets/images/pdfs/2021-04-16-certificate-day02.pdf&quot; class=&quot;btn&quot; target=&quot;_blank&quot;&gt;&lt;i class=&quot;far fa-file-pdf&quot;&gt;&lt;/i&gt;&lt;span&gt; 정보처리기사 - II단원 오답.pdf&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;단원-목차&quot;&gt;단원 목차&lt;/h3&gt;
@@ -73,11 +73,11 @@
 &lt;h2 id=&quot;01-소프트웨어-공학이란&quot;&gt;01. 소프트웨어 공학이란?&lt;/h2&gt;
 &lt;p&gt;개발 또는 정보 관련 자격증을 준비하면서 소프트웨어와 소프트웨어 공학이라는 말을 듣게 된다. 소프트웨어가 무엇인지는 막연히 알겠는데, 소프트웨어 공학은 무엇일까? &lt;br /&gt;
 소프트웨어 공학은 소프트웨어를 어떻게 만들 것인지, 만드는 동안 소요되는 시간과 또 만들어진 결과물의 모습은 어떻게 되는지에 대해 정리한 것이라고 한다. &lt;br /&gt;
-간단히 정리하자면 &lt;u&gt;소프트웨어를 어떻게 잘 만들 수 있는지 가르쳐주는 것&lt;/u&gt;이 &lt;strong&gt;소프트웨어 공학&lt;/strong&gt;이라고 한다.&lt;/p&gt;
+간단히 정리하자면 &lt;u&gt;소프트웨어를 어떻게하면 잘 만들 수 있는지 가르쳐주는 것&lt;/u&gt;이 &lt;strong&gt;소프트웨어 공학&lt;/strong&gt;이라고 한다.&lt;/p&gt;
 
-&lt;h2 id=&quot;02-소프트웨어-공학-탄생-배경&quot;&gt;02. 소프트웨어 공학 탄생 배경&lt;/h2&gt;
-&lt;p&gt;소프트웨어 공학이라는 개념은 &lt;a href=&quot;https://ko.wikipedia.org/wiki/%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4_%EC%9C%84%EA%B8%B0&quot; target=&quot;_blank&quot; class=&quot;link-no-underline&quot;&gt;소프트웨어 위기(Software Crisis)&lt;/a&gt; 속에서 탄생했다. 1960년대 프로그램 개발에 대한 수요가 폭발적으로 증가하면서 많은 개발 프로젝트가 진행됐지만, 당시 이를 지원해줄 공급은 턱없이 부족했고 이에 당연히 결과물은 좋지 못했다. &lt;br /&gt;
-많은 소프트웨어 개발 프로젝트가 실패하면서 이를 극복하기 위해, 처음부터 모든 것을 만들어내는 것이 아닌 공학점 패러다임을 적용해 개발을 진행하자는 의견이 제기되었고, 1968년 10월 독일의 가미쉬(Garmisch) 도시에서 개최된 NATO의 한 커퍼런스에서 &lt;strong&gt;“소프트웨어 공학(Software Engineering)”&lt;/strong&gt;이라는 용어가 처음 제안되었다. &lt;br /&gt;
+&lt;h2 id=&quot;02-소프트웨어-공학-탄생과-정의&quot;&gt;02. 소프트웨어 공학 탄생과 정의&lt;/h2&gt;
+&lt;p&gt;소프트웨어 공학이라는 개념은 &lt;a href=&quot;https://ko.wikipedia.org/wiki/%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4_%EC%9C%84%EA%B8%B0&quot; target=&quot;_blank&quot; class=&quot;link-no-underline&quot;&gt;소프트웨어 위기(Software Crisis)&lt;/a&gt; 속에서 탄생했다. 1960년대 프로그램 개발에 대한 수요가 폭발적으로 증가하면서 많은 개발 프로젝트가 진행됐지만, 당시 이를 지원해줄 공급은 턱없이 부족했고 이에 결과물은 당연히 좋지 못했다. &lt;br /&gt;
+많은 소프트웨어 개발 프로젝트가 실패하면서 이를 극복하기 위해, 처음부터 모든 것을 만들어내는 것이 아닌 공학적 패러다임을 적용해 개발을 진행하자는 의견이 제기되었고, 1968년 10월 독일의 가미쉬(Garmisch) 도시에서 개최된 NATO의 한 커퍼런스에서 &lt;strong&gt;“소프트웨어 공학(Software Engineering)”&lt;/strong&gt;이라는 용어가 처음 제안되었다. &lt;br /&gt;
 컨퍼런스가 진행될 때 의장이었던 &lt;a href=&quot;https://en.wikipedia.org/wiki/Friedrich_L._Bauer&quot; target=&quot;_blank&quot; class=&quot;link-no-underline&quot;&gt;프리드리히 바우어(Bauer)&lt;/a&gt;는 소프트웨어 공학을 다음과 같이 정의했다.&lt;/p&gt;
 
 &lt;blockquote&gt;
@@ -85,7 +85,44 @@
 “Establishment and use of sound engineering principles to economically obtain software that is reliable and works on real machines efficiently.”&lt;/p&gt;
 &lt;/blockquote&gt;
 
+&lt;p&gt;소프트웨어 공학 IEEE(Institute of Electrical and Electronics Engineers)는 다르게 정의했다.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;소프트웨어의 개발과 운용, 유지보수에 대한 체계적(systematic)이며, 훈련된(disciplined) 계량화할 수 있는(quantifiable) 접근방식의 적용이다&lt;br /&gt;
+“the application of a systematic, disciplined, quantifiable approach to the development operation, and maintenance of software”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;간단히 정리하면,&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;소프트웨어 공학은 소프트웨어 위기 때 많은 프로젝트 실패 속에서 해결 방안으로 탄생&lt;/li&gt;
+  &lt;li&gt;소프트웨어 공학이란,
+    &lt;ul&gt;
+      &lt;li&gt;효율적이고 신뢰성 있는 소프트웨어를&lt;/li&gt;
+      &lt;li&gt;경제적(비용과 시간을 고려)이게 개발하기 위하여&lt;/li&gt;
+      &lt;li&gt;체계적이며 계량화할 수 있는 공학적 원리를 이용해 개발하는 방법&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;정도로 이해하면 될 것 같다.&lt;/p&gt;
+
 &lt;h2 id=&quot;03-소프트웨어-정의와-구성요소&quot;&gt;03. 소프트웨어 정의와 구성요소&lt;/h2&gt;
+&lt;p&gt;위에서 소프트웨어 공학이 어떻게 탄생했고, 그것이 무엇인지 정의를 통해 알아봤다. 그렇다면 소프트웨어는 무엇일까? 무엇을 소프트웨어라 말할 수 있는걸까? 이는 단순히 프로그램을 일컫는 말일까? &lt;br /&gt;
+답은 아니다. 이를 이해하기 위해 두 개의 정의를 살펴볼 필요가 있다.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;소프트웨어는 단순한 프로그램 뿐만 아니라 프로그램이 올바르게 작동하도록 하는데 필요한 관련된 문서 및 설치 데이터를 의미한다.
+by. 솜머빌(Sommerville)&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;솜머빌은 소프트웨어를 프로그램 뿐 아니라 관련된 문서와 데이터까지 포함하여 정의했다.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;소프트웨어는 1) 실행되면서 원하는 기능이나 함수, 성능을 제공해 주는 명령어(컴퓨터 프로그램); 2) 프로그램이 데이터를 적절하게 처리할 수 있게 해 주는 자료구조; 3) 프로그램의 사용이나 운영을 나타내는 하드카피나 가상 형태인 문서이다. by. 프레스만(Presman)&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;프레스만은 소프트웨어를 프로그램, 문서, 그리고 자료구조까지 포함해 정의했다.&lt;/p&gt;
+
 &lt;h2 id=&quot;04-소프트웨어-공학-특징-4가지&quot;&gt;04. 소프트웨어 공학 특징 4가지&lt;/h2&gt;
 &lt;h2 id=&quot;05-라이프-사이클life-cycle&quot;&gt;05. 라이프 사이클(Life Cycle)&lt;/h2&gt;
 &lt;h2 id=&quot;06-소프트웨어-도입-프로젝트-방식&quot;&gt;06. 소프트웨어 도입 프로젝트 방식&lt;/h2&gt;
@@ -93,6 +130,10 @@
 &lt;h2 id=&quot;정리&quot;&gt;정리&lt;/h2&gt;
 
 &lt;h2 id=&quot;추가-보완-사항&quot;&gt;추가 보완 사항&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;소프트웨어 위기의 자세한 내용과 1960년대 컴퓨터 수요 증가 원인을 보충하고 싶음&lt;/li&gt;
+  &lt;li&gt;공학적 패러다임 / 공학 개념 도입의 의미를 더 파악하길 바람&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;h2 id=&quot;참고문헌&quot;&gt;참고문헌&lt;/h2&gt;
 &lt;ul&gt;
