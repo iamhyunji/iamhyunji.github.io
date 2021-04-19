@@ -14,7 +14,7 @@ comments: true
 date: 2021-04-16
 ---
 
-## II. 통합 구현
+## III. 통합 구현
 <a href="/assets/images/pdfs/2021-04-16-certificate-day03.pdf" class="btn" target="_blank"><i class="far fa-file-pdf"></i><span> 정보처리기사 - III단원 오답.pdf</span></a>
 
 ### 단원 목차

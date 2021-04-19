@@ -11,10 +11,10 @@ categories:
 
 comments: true
 
-date: 2021-04-16
+date: 2021-04-19
 ---
 
-## II. 통합 구현
+## IV. 서버 프로그램 구현
 <a href="/assets/images/pdfs/2021-04-19-certificate-day04.pdf" class="btn" target="_blank"><i class="far fa-file-pdf"></i><span> 정보처리기사 - IV단원 오답.pdf</span></a>
 
 ### 단원 목차
